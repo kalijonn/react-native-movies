@@ -5,6 +5,17 @@ React Native App for trending movies :movie_camera: Provides list of trending mo
 Make changes to splash screen. Add icons.
 
 ## Dev :hammer:
-`npx react-native run-ios` for iOS :iphone: [needs xcode and node]
+for iOS :iphone: [needs xcode, cocoapods and node]
 
-`npx react-native run-android` for Android :robot: [needs android studio]
+`cd ios && pod install` 
+
+`npx react-native run-ios` 
+
+&nbsp;
+
+
+
+
+for Android :robot: [needs android studio]
+
+`npx react-native run-android` 
